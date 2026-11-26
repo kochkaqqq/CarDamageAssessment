@@ -1,0 +1,6 @@
+/run_kaggle_pipeline.py
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+.env
